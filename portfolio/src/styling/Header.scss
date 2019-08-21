@@ -1,0 +1,14 @@
+.header {
+  width: 40%;
+  height: 50px;
+  margin: 75px auto;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgb(190, 190, 190);
+
+  .header-title {
+    position: relative;
+    text-align: center;
+    font-size: 3rem;
+  } // header-title
+}
