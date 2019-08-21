@@ -1,2 +1,1 @@
-# jr-portfolio
-Portfolio
+Portfolio Application built in React.js
